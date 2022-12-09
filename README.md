@@ -5,11 +5,11 @@
 </p>
 
 <p align="center">
-    <img src="./mocap/imgs/beat1.png" width = "40%" height = "40%">
+    <img src="./mocap/imgs/beat1.png">
 </p>
 
 <p align="center">
-    <img src="./mocap/imgs/beat2.png" width = "40%" height = "40%">
+    <img src="./mocap/imgs/beat2.png">
 </p>
 
 reference
